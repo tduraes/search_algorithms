@@ -1,0 +1,18 @@
+Para executar o programa é necessário ter o Python 2 instalado.
+
+Para correr o programa, é necessário criar um ficheiro input.txt
+As primeiras 3 linhas são a configuração inicial. As seguintes 3 são a configuração final.
+A última linha é o método de procura pretendido. 
+As opções são "BFS", "DFS", "IDDFS", "G", "A".
+
+Exemplo input.txt:
+123
+4x5
+678
+123
+458
+x67
+DFS
+
+Para executar o programa com o input:
+$ python main.py input.txt
